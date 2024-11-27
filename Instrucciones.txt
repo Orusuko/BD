@@ -1,0 +1,22 @@
+Instrucciones para Ejecutar la Aplicación
+
+Requisitos:
+
+Asegúrate de tener instalado Node.js y SQLite.
+Pasos para Ejecutar el Backend:
+
+Abre una terminal en la carpeta raíz del proyecto.
+Instala las dependencias necesarias ejecutando:
+npm install
+Inicia el servidor con el comando:
+node server/server.js
+Si todo está correcto, deberías ver el mensaje:
+"Servidor corriendo en el puerto 3000".
+Pasos para Ejecutar el Frontend:
+
+Abre el archivo index.html que está en la carpeta public en tu navegador.
+Qué Puedes Hacer:
+
+Agregar una tarea escribiendo su descripción en el campo de texto y haciendo clic en "Agregar".
+Visualizar todas las tareas almacenadas.
+Eliminar una tarea haciendo clic en "Eliminar".
